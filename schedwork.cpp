@@ -52,6 +52,7 @@ bool schedule(
 
 		bool works = scheduleHelper(0, 0, workers, availCopy, sched, dailyNeed);
 
+
 		return works;
 
 }
